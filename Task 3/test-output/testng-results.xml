@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="GithubApi Test Suit" duration-ms="4651" started-at="2019-05-21T14:47:39Z" finished-at="2019-05-21T14:47:44Z">
+    <groups>
+    </groups>
+    <test name="Get all the repos of the user" duration-ms="4651" started-at="2019-05-21T14:47:39Z" finished-at="2019-05-21T14:47:44Z">
+      <class name="CallHub.RestAPI.GitHubApiTest">
+        <test-method status="PASS" signature="getData()[pri:0, instance:CallHub.RestAPI.GitHubApiTest@3febb011]" name="getData" is-config="true" duration-ms="8" started-at="2019-05-21T14:47:39Z" finished-at="2019-05-21T14:47:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getData -->
+        <test-method status="PASS" signature="getRepoNames()[pri:0, instance:CallHub.RestAPI.GitHubApiTest@3febb011]" name="getRepoNames" duration-ms="4625" started-at="2019-05-21T14:47:39Z" finished-at="2019-05-21T14:47:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getRepoNames -->
+      </class> <!-- CallHub.RestAPI.GitHubApiTest -->
+    </test> <!-- Get all the repos of the user -->
+  </suite> <!-- GithubApi Test Suit -->
+</testng-results>
